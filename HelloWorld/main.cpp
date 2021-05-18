@@ -11,6 +11,12 @@ int main(){
     int a,b;
     cin>>a>>b; // used to input values
     cout<<a+b<<"\n"; // used to output values
+
+    int c;
+    c = 12;
+
+    cout<<"Size of int "<<sizeof(c);
+    
     // \n = nextLine. Can also use endl to inert new line
     // << insertion operator
     /* This
